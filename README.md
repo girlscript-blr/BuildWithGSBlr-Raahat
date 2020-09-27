@@ -5,5 +5,5 @@
 </p>
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr) [![GitHub license](https://img.shields.io/github/license/girlscript-blr/HacktoberFest2020?logo=GITHUB&style=flat)]()
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr)
 
