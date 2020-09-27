@@ -46,3 +46,16 @@ For all the young duckings, we have posted some useful resources to go through a
 Here are a few references for you :
 
 - One of the most important things in the FOSS world are your commits, check here to know all about it - [GitCommitMessages - OpenStack](https://wiki.openstack.org/wiki/GitCommitMessages)
+
+***Glad to see you here! Show some love by [starring](https://github.com/girlscript-blr/code-with-gsblr-covid-a-thon/) this repo.***
+
+-----
+
+```
+
+  if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+  }
+
+```
