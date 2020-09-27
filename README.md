@@ -7,8 +7,11 @@
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr)
 
-## About the Problem Statement
+## About the Program
 
+## Problem Statements
+
+## General Guidelines
 
 ## Note
 
