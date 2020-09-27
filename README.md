@@ -12,6 +12,20 @@
 
 ## Problem Statements
 
+## Technology Stack Used
+
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/framework-bootstrap-purple.svg?logo=bootstrap&style=flat-square) 
+![Flask](https://img.shields.io/badge/framework-flask-lightgray.svg?logo=flask&style=flat-square) 
+![Python](https://img.shields.io/badge/backend-python-blue.svg?logo=python&style=flat-square) 
+
+
+- Front End - **HTML**, **CSS**
+- Framewrok - **Flask**, **Bootstrap**
+- Back End - **Python** 
+
+
 ## General Guidelines
 
 ## Note
