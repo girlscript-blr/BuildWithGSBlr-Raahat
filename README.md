@@ -8,8 +8,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/girlscript-blr)
 
-### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
-
 ## About the Program
 
 ## Problem Statements
