@@ -4,6 +4,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/girlscript-blr)
 
+Nothing lasts forever – even the insights from your last survey go stale after a while. One way to keep your survey results fresh and actionable is by running your survey again and creating a multi wave tracking study, also known as tracker or tracking survey. 
+
+A tracking survey is a survey that asks the same questions across an interval of time, which allows you to “track” the changes from one deployment to the next and find trends over a certain period.
+
+Each time you send your survey, whether it’s annually, quarterly, or more frequently is called a “wave.” Comparing survey results across waves will show trends and changing attitudes that can either prove your decisions are solid or indicate it’s time to change course.
+
 ## Technology Stack Used
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
@@ -87,8 +93,10 @@ Don’t forget to fill the [participation form](https://tinyurl.com/codewithgsbl
 
 For all the young duckings, we have posted some useful resources to go through and understand GitHub.
 
-- [GitHub Guides](https://guides.github.com/)
+- [Bulma Documentation](https://bulma.io/)
 - [Git Documentation](https://git-scm.com/docs)
+- [GitHub Guides](https://guides.github.com/)
+- [React Routing](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
 
 ## References
 
