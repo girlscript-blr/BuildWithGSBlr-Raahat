@@ -1,8 +1,21 @@
-# Survey Taker
+# Survey Taker Application
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/girlscript-blr)
+
+## Technology Stack Used
+
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/backend-javascript-blue.svg?logo=javascript&style=flat-square) 
+![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bulma&style=flat-square) 
+![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=react&style=flat-square) 
+
+- Front End - **HTML**, **CSS** , **JavaScript**
+- Framewrok - **Bulma**
+- Library - **React** 
+
 
 ## Problem Statements
 
@@ -59,21 +72,10 @@ Input can be in any format or variation but it must include the following.
 
 <br />
 
-## Technology Stack Used
-
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bulma&style=flat-square) 
-![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=react&style=flat-square) 
-![Firebase](https://img.shields.io/badge/backend-firebase-blue.svg?logo=firebase&style=flat-square) 
-
-
-- Front End - **HTML**, **CSS**
-- Framewrok - **Flask**, **Bootstrap**
-- Back End - **Python** 
 
 
 ## General Guidelines
+
 
 ## Note
 
