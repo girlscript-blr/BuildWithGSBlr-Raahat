@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" width="30%">
-    </a>
-</p>
+# Survey Taker
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
@@ -67,9 +63,9 @@ Input can be in any format or variation but it must include the following.
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/framework-bootstrap-purple.svg?logo=bootstrap&style=flat-square) 
-![Flask](https://img.shields.io/badge/framework-flask-lightgray.svg?logo=flask&style=flat-square) 
-![Python](https://img.shields.io/badge/backend-python-blue.svg?logo=python&style=flat-square) 
+![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bootstrap&style=flat-square) 
+![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=flask&style=flat-square) 
+![Firebase](https://img.shields.io/badge/backend-firebase-blue.svg?logo=python&style=flat-square) 
 
 
 - Front End - **HTML**, **CSS**
