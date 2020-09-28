@@ -63,9 +63,9 @@ Input can be in any format or variation but it must include the following.
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bootstrap&style=flat-square) 
-![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=flask&style=flat-square) 
-![Firebase](https://img.shields.io/badge/backend-firebase-blue.svg?logo=python&style=flat-square) 
+![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bulma&style=flat-square) 
+![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=react&style=flat-square) 
+![Firebase](https://img.shields.io/badge/backend-firebase-blue.svg?logo=firebase&style=flat-square) 
 
 
 - Front End - **HTML**, **CSS**
