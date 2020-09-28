@@ -103,7 +103,6 @@ For all the young duckings, we have posted some useful resources to go through a
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Routing Video](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
 
-
-***Glad to see you here! Show some love by [starring](https://github.com/girlscript-blr/code-with-gsblr-covid-a-thon/) this repo.***
+<br />
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptbangalore&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/girlscriptbangalore)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptbangalore&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/girlscriptbangalore/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@girlscriptbangalore&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/girlscriptbangalore/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@GirlscriptBLR&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/GirlscriptBLR)
