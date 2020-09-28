@@ -8,8 +8,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/girlscript-blr)
 
-## About the Program
-
 ## Problem Statements
 
 Mr. Banku Yadav has just started with his NGO. During this Covid-19 pandemic, he decided to do a fundraiser to help the people in need. He found a slum nearby named Nayandahalli where he saw people who were in need of food and ration kits.
@@ -35,7 +33,7 @@ Input can be in any format or variation but it must include the following.
 - How much rice in grams he/she eats per day?:
 - How much dal in grams he/she eats per day?:
 - Any 2 special food item required to be chosen from choices: (choices should be based on Age & Gender selected)
-/
+<br />
 
      | Age Group                            | Special Food Options                                                           |
      | ------------------------------------ | ------------------------------------------------------------------------------ |
@@ -45,12 +43,14 @@ Input can be in any format or variation but it must include the following.
      | Adult Female: Between 18 to 69 years | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks, Calcium Sandoz Tablets |
      | Adult Male: Between 18 to 69 years   | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks                         |
      | Adult Other: Between 18 to 69 years  | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks, Calcium Sandoz Tablets |
-/
+<br />
 
 - The records filled by the user should be stored in a Table/file and has to support fields/columns like **Aadhar Card Number, Name, Age, Gender, Slum Id**(fetched from Slum Details Table), **Rice Per Day, Dal Per Day, Special Food Item 1, Special Food Item 2**.
 - After the records are updated in the table, the app should reply with the message **“Thank You for taking the Survey!”**
 - App should also check if this particular user had already taken the survey earlier from the table based on User’s **Aadhar Card Number**. If it is found that the user had already taken the survey earlier, then the app shouldn’t store the user details again in the table/file and reply with the message **“User had already taken the Survey earlier!”**.
-/
+
+<br />
+
 ### Tables or Files Required
 
 | Serial No. | Table/File Name  | Description                                                                                                                                         |
@@ -59,7 +59,8 @@ Input can be in any format or variation but it must include the following.
 | 2.         | SpecialFoodItems | Special Food Items list to be displayed as options for different Age Groupes taking the Survey.                                                     |
 | 3.         | MonthlyFoodStock | Monthly Food Stock to add Prices for the food items & required quantity of items to be provided to an individual for a period of 30days or a month. |
 | 4.         | SurveyRecords    | Survey details entered by the Survey Taker should be stored here.   
-/
+
+<br />
 
 ## Technology Stack Used
 
