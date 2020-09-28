@@ -1,9 +1,10 @@
-import React, {useState} from 'react'
+import React from 'react'
 import './header.css'
 
 const Header = () => {
     return (
-        <div>
+        // Reference of how to use bulma classes
+        <div className="section has-text-centered is-size-1">
             Hello World
         </div>
     )
