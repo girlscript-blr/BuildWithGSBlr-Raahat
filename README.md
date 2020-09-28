@@ -80,6 +80,11 @@ Input can be in any format or variation but it must include the following.
 
 
 ## General Guidelines
+ - In the monthly challenges, each level may have a separate deadline that will be mentioned along with each problem statement. Eligibility of rewards is subject to strict adherence to the mentioned deadlines.
+ - Raise a pull request only when you are satisfied with the solution.
+ - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
+ - Contributors who are able to complete all levels of a problem statement will have a chance to join the team of Reviewers.
+ - It goes without saying that plagiarism is strictly discouraged. Kindly refrain from the urge to do it.
 
 
 ## Note
