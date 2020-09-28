@@ -20,22 +20,22 @@ It is your time to rise and shine as you have a golden opportunity to help Banku
 
 The state government noticed Banku Yadav’s efforts and got impressed with his idea. The government wants him to do the same for other slums as well. So Banku Yadav approaches you for updating the app. Now you should automate the Survey App so that records of more slums and a variety of food items can be maintained. While collecting survey records of each individual you should also collect their slum’s name. The app should store details in the form of a database or files.
 
-Your task is to create an App that should support the following functionalities:
+Your task is to create an App that should support the following functionality:
 
-- The User should be able to fill **multiple surveys for multiple users** as per following inputs.
+The User should be able to fill **multiple surveys for multiple users** as per following inputs.
 
-     ### Inputs
+### Inputs
 
-     Input can be in any format or variation but it must include the following.
-
-     - Aadhar Card Number:
-     - Name:
-     - Gender: (3 Options: Male, Female, Other)
-     - Age:
-     - Slum Name: (List of Options from Slum Details table/file)
-     - How much rice in grams he/she eats per day?:
-     - How much dal in grams he/she eats per day?:
-     - Any 2 special food item required to be chosen from choices: (choices should be based on Age & Gender selected)
+Input can be in any format or variation but it must include the following.
+- Aadhar Card Number:
+- Name:
+- Gender: (3 Options: Male, Female, Other)
+- Age:
+- Slum Name: (List of Options from Slum Details table/file)
+- How much rice in grams he/she eats per day?:
+- How much dal in grams he/she eats per day?:
+- Any 2 special food item required to be chosen from choices: (choices should be based on Age & Gender selected)
+/
 
      | Age Group                            | Special Food Options                                                           |
      | ------------------------------------ | ------------------------------------------------------------------------------ |
@@ -45,11 +45,12 @@ Your task is to create an App that should support the following functionalities:
      | Adult Female: Between 18 to 69 years | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks, Calcium Sandoz Tablets |
      | Adult Male: Between 18 to 69 years   | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks                         |
      | Adult Other: Between 18 to 69 years  | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks, Calcium Sandoz Tablets |
+/
 
-   - The records filled by the user should be stored in a Table/file and has to support fields/columns like **Aadhar Card Number, Name, Age, Gender, Slum Id**(fetched from Slum Details Table), **Rice Per Day, Dal Per Day, Special Food Item 1, Special Food Item 2**.
-   - After the records are updated in the table, the app should reply with the message **“Thank You for taking the Survey!”**
-   - App should also check if this particular user had already taken the survey earlier from the table based on User’s **Aadhar Card Number**. If it is found that the user had already taken the survey earlier, then the app shouldn’t store the user details again in the table/file and reply with the message **“User had already taken the Survey earlier!”**.
-
+- The records filled by the user should be stored in a Table/file and has to support fields/columns like **Aadhar Card Number, Name, Age, Gender, Slum Id**(fetched from Slum Details Table), **Rice Per Day, Dal Per Day, Special Food Item 1, Special Food Item 2**.
+- After the records are updated in the table, the app should reply with the message **“Thank You for taking the Survey!”**
+- App should also check if this particular user had already taken the survey earlier from the table based on User’s **Aadhar Card Number**. If it is found that the user had already taken the survey earlier, then the app shouldn’t store the user details again in the table/file and reply with the message **“User had already taken the Survey earlier!”**.
+/
 ### Tables or Files Required
 
 | Serial No. | Table/File Name  | Description                                                                                                                                         |
@@ -58,6 +59,7 @@ Your task is to create an App that should support the following functionalities:
 | 2.         | SpecialFoodItems | Special Food Items list to be displayed as options for different Age Groupes taking the Survey.                                                     |
 | 3.         | MonthlyFoodStock | Monthly Food Stock to add Prices for the food items & required quantity of items to be provided to an individual for a period of 30days or a month. |
 | 4.         | SurveyRecords    | Survey details entered by the Survey Taker should be stored here.   
+/
 
 ## Technology Stack Used
 
