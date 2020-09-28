@@ -87,8 +87,10 @@ Don’t forget to fill the [participation form](https://tinyurl.com/codewithgsbl
 
 For all the young duckings, we have posted some useful resources to go through and understand GitHub.
 
-- [GitHub Guides](https://guides.github.com/)
+- [Bulma Documentation](https://bulma.io/)
 - [Git Documentation](https://git-scm.com/docs)
+- [GitHub Guides](https://guides.github.com/)
+
 
 ## References
 
