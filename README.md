@@ -95,20 +95,13 @@ Don’t forget to fill the [participation form](https://tinyurl.com/codewithgsbl
 
 ## Resources
 
-For all the young duckings, we have posted some useful resources to go through and understand GitHub.
+For all the young duckings, we have posted some useful resources to go through and understand GitHub and React.
 
 - [Bulma Documentation](https://bulma.io/)
 - [Git Documentation](https://git-scm.com/docs)
 - [GitHub Guides](https://guides.github.com/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Routing Video](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
-
-## References
-
-Here are a few references for you :
-
-- One of the most important things in the FOSS world are your commits, check here to know all about it - [GitCommitMessages - OpenStack](https://wiki.openstack.org/wiki/GitCommitMessages)
-
 
 
 ***Glad to see you here! Show some love by [starring](https://github.com/girlscript-blr/code-with-gsblr-covid-a-thon/) this repo.***
