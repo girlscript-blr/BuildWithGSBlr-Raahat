@@ -96,7 +96,7 @@ For all the young duckings, we have posted some useful resources to go through a
 - [Git Documentation](https://git-scm.com/docs)
 - [GitHub Guides](https://guides.github.com/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [React Routing](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
+- [React Routing Video](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
 
 ## References
 
