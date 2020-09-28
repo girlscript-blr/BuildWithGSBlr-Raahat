@@ -1,5 +1,4 @@
 # Survey Taker Application
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/girlscript-blr)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/girlscript-blr)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/girlscript-blr)
@@ -96,6 +95,7 @@ For all the young duckings, we have posted some useful resources to go through a
 - [Bulma Documentation](https://bulma.io/)
 - [Git Documentation](https://git-scm.com/docs)
 - [GitHub Guides](https://guides.github.com/)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Routing](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
 
 ## References
