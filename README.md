@@ -44,6 +44,7 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
  - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
  - While making any componet, make sure that code for the all generalised/common components must be kept in ```src->components->common```folder.
  - While making specific components keep the source code in the ```src->components``` folder.
+ - For desiging a component please use bulma or modular css. 
  
  
 ## Note
