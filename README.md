@@ -30,7 +30,7 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 
 ## Problem Statements
 
- ### [Question_v1](QUESTION_V1.md)
+ ### [Question v1.0](QUESTION_V1.md)
   Here in the first version of our Problem Statement, issues will be created based on this.
  ### [Question](QUESTION.md)
   Here is the final version of our Problem Statement, which we are expecting to achive after completing the entire project.
