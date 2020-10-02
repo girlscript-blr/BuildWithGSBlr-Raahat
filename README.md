@@ -43,9 +43,9 @@ Please follow this [link](https://nodejs.org/en/download/) to setup Node.js in y
  - Before working on any issue kindly go through the instructions given in the [contributing](CONTRIBUTING.md) and readme file carefully.
  - For each issue, a detailed explanation is mentioned in issue ticket itself, for more details refer to [figma design](https://www.figma.com/file/TkpKfOPVtQ2XjADFp9Hhbz/Build-with-GS-BLR---Raahat?node-id=0%3A1).
  - While making any component, make sure that the code for the all generalised/common components must be kept in [src->components->common](src/components/common) folder.
- - While making specific components keep the source code in the [src->components](src/components/) folder.
- - For desiging a component please use bulma or modular css. 
- - Adhere to the folder structure of the project.
+ - Kindly keep the source code in the [src->components](src/components/) folder while making the specific components.
+ - Kindly use bulma or modular css for desiging a component. 
+ - Please make sure to adhere to the folder structure of the project.
  
  
 ## Note
