@@ -9,6 +9,8 @@ A tracking survey is a survey that asks the same questions across an interval of
 
 Each time you send your survey, whether it’s annually, quarterly, or more frequently is called a “wave.” Comparing survey results across waves will show trends and changing attitudes that can either prove your decisions are solid or indicate it’s time to change course.
 
+**Here is the [wireframe](https://www.figma.com/file/TkpKfOPVtQ2XjADFp9Hhbz/Build-with-GS-BLR---Raahat?node-id=0%3A1) of the application we are building!**
+
 ## Prerequisites
 
 Node.js should be installed in the system.
