@@ -41,9 +41,9 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 
 ## General Guidelines
  - Before working on any issue kidly read [contributing](CONTRIBUTING.md) file and readme file nicely.
- - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
- - While making any componet, make sure that code for the all generalised/common components must be kept in ```src->components->common```folder.
- - While making specific components keep the source code in the ```src->components``` folder.
+ - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to [figma design](https://www.figma.com/file/TkpKfOPVtQ2XjADFp9Hhbz/Build-with-GS-BLR---Raahat?node-id=0%3A1).
+ - While making any componet, make sure that code for the all generalised/common components must be kept in [src->components->common](src/components/common) folder.
+ - While making specific components keep the source code in the [src->components](src/components/) folder.
  - For desiging a component please use bulma or modular css. 
  - Adhrere to the folder structure of the project.
  
@@ -52,7 +52,12 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 
 Since you are here, you should most definitely consider joining us on this ride. If you still have any doubts, listen to Richard Stallman's perspective on [Free software, free society](https://www.tedxgeneva.net/talks/richard-stallman-free-software-free-society/)
 
-Don’t forget to fill the [participation form](https://tinyurl.com/codewithgsblr) 📃 to take part in the program, if not already done. Start contributing!😊
+Don’t forget to fill the [participation form](https://tinyurl.com/buildwithgsblr) 📃 to take part in the program, if not already done. 
+
+[RSVP here](https://tinyurl.com/gsblr-hacktoberfest2020) to win\* a limited edition Hacktoberfest 👕Tee-shirt or a 🎍plant.
+> \*You must make four valid Pull Requests between October 1-31 to any public repo on Github
+
+Start contributing!😊
 
 ## Resources
 
