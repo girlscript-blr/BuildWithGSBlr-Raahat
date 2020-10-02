@@ -13,7 +13,7 @@ Each time you send your survey, whether it’s annually, quarterly, or more freq
 
 Node.js should be installed in the system.
 
-If you have Node.js in your system use this [link](h)ttps://nodejs.org/en/download/)
+If you have Node.js in your system use this [link](https://nodejs.org/en/download/)
 
 ## Technology Stack Used
 
