@@ -45,6 +45,7 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
  - While making any componet, make sure that code for the all generalised/common components must be kept in ```src->components->common```folder.
  - While making specific components keep the source code in the ```src->components``` folder.
  - For desiging a component please use bulma or modular css. 
+ - Adhrere to the folder structure of the project.
  
  
 ## Note
