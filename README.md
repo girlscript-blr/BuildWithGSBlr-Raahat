@@ -22,32 +22,25 @@ Each time you send your survey, whether it’s annually, quarterly, or more freq
 - Library - **React** 
 
 
-## Problem Statements
+## Problem Statements (Version 1)
 
 Mr. Banku Yadav has just started with his NGO. During this Covid-19 pandemic, he decided to do a fundraiser to help the people in need. He found a slum nearby named Nayandahalli where he saw people who were in need of food and ration kits.
 
 Before starting with the fundraiser he thought of exploring the slum and thereby conducted a survey. When Banku Yadav reached Nayandahalli he found out that there were a lot of people and collecting each and everyone’s record manually would become a tedious process. So he thought of creating an app that will make his task easier in conducting the survey. Banku Yadav is not a tech-savvy person to build a survey app.
 
-It is your time to rise and shine as you have a golden opportunity to help Banku Yadav create an app for conducting his survey. Banku Yadav’s app proved to be successful in estimating the quantity of each food item along with its price and the total amount required to be funded based on the total number of people.
-
-The state government noticed Banku Yadav’s efforts and got impressed with his idea. The government wants him to do the same for other slums as well. So Banku Yadav approaches you for updating the app. Now you should automate the Survey App so that records of more slums and a variety of food items can be maintained. While collecting survey records of each individual you should also collect their slum’s name. The app should store details in the form of a database or files.
-
-Your task is to create an App that should support the following functionality:
-
-The User should be able to fill **multiple surveys for multiple users** as per following inputs.
+It is your time to rise and shine as you have a golden opportunity to help Banku Yadav create an app for conducting his survey. Refer the sample input and output examples given below to create your app.
 
 ### Inputs
 
-Input can be in any format or variation but it must include the following.
+App should allow the user to fill **multiple surveys for multiple users**. Input can be in any format or variation but it must include the following.
+
 - Aadhar Card Number:
 - Name:
 - Gender: (3 Options: Male, Female, Other)
 - Age:
-- Slum Name: (List of Options from Slum Details table/file)
 - How much rice in grams he/she eats per day?:
 - How much dal in grams he/she eats per day?:
 - Any 2 special food item required to be chosen from choices: (choices should be based on Age & Gender selected)
-<br />
 
 | Age Group                            | Special Food Options                                                           |
 | ------------------------------------ | ------------------------------------------------------------------------------ |
@@ -58,22 +51,40 @@ Input can be in any format or variation but it must include the following.
 | Adult Male: Between 18 to 69 years   | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks                         |
 | Adult Other: Between 18 to 69 years  | Canned Fruits, Canned Veggies, Nandini Milk TetraPacks, Calcium Sandoz Tablets |
 
-<br />
+### Output
 
-- The records filled by the user should be stored in a Table/file and has to support fields/columns like **Aadhar Card Number, Name, Age, Gender, Slum Id**(fetched from Slum Details Table), **Rice Per Day, Dal Per Day, Special Food Item 1, Special Food Item 2**.
-- After the records are updated in the table, the app should reply with the message **“Thank You for taking the Survey!”**
-- App should also check if this particular user had already taken the survey earlier from the table based on User’s **Aadhar Card Number**. If it is found that the user had already taken the survey earlier, then the app shouldn’t store the user details again in the table/file and reply with the message **“User had already taken the Survey earlier!”**.
+#### Person Info:
 
-<br />
+| Age Group                            | No. of People |
+| ------------------------------------ | ------------- |
+| Infants: Below 2years                | ?             |
+| Children: Between 3 to 18 years      | ?             |
+| Old Age: Above 70 years              | ?             |
+| Adult Female: Between 18 to 69 years | ?             |
+| Adult Male: Between 18 to 69 years   | ?             |
+| Adult Other: Between 18 to 69 years  | ?             |
 
-### Tables or Files Required
+#### Food Info:
 
-| Serial No. | Table/File Name  | Description                                                                                                                                         |
-| ---------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.         | SlumDetails      | Slum details to be added/updated here so as to display the list of slums to select from when Survey Taker fills the survey.                         |
-| 2.         | SpecialFoodItems | Special Food Items list to be displayed as options for different Age Groupes taking the Survey.                                                     |
-| 3.         | MonthlyFoodStock | Monthly Food Stock to add Prices for the food items & required quantity of items to be provided to an individual for a period of 30days or a month. |
-| 4.         | SurveyRecords    | Survey details entered by the Survey Taker should be stored here.   
+| Food Item               | Required Quantity |
+| ----------------------- | ----------------- |
+| Rice in Kg per day      | ?                 |
+| Dal in Kg per day       | ?                 |
+| Cerelac                 | ?                 |
+| Amul powder             | ?                 |
+| Nandini Milk TetraPacks | ?                 |
+| Bread                   | ?                 |
+| Tiger/Parle G Biscuits  | ?                 |
+| Canned Veggies          | ?                 |
+| Canned Fruits           | ?                 |
+| Medicine Packs          | ?                 |
+| Calcium Sandoz Tablets  | ?                 |
+
+### Note:
+
+> - **Person Info Table** should display the number of people as per their age category.
+> - In the **Food Info Table**, the **Required Quantity** is the sum of number of food items(in kg or number of units) selected by each individual on taking the Survey.
+
 
 <br />
 
