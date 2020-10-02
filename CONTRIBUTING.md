@@ -9,7 +9,7 @@
 4. Once the participant is assigned an issue, he/she will be given a deadline under which they need to create a PR which solves that issues.
 5. If they fail to do the same, then the issue will re-unassigned and we'll wait for someone else to take it up.
 
-## Now, follow the steps below to get started on your issue solution immediately!
+## Now, follow the steps below to get started on develpoing the solutions immediately!
 
 - **Fork this repo**: You'll see a Fork button on the top right against the name of this repository. This creates a copy of this repository in your repositories collection.
 
