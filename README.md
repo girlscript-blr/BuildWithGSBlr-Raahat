@@ -24,9 +24,9 @@ Each time you send your survey, whether it’s annually, quarterly, or more freq
 
 ## Problem Statements
 
-### [Question_v1](Question_v1.md)
+### [Question_v1](QUESTION_V1.md)
  Here in the first version of our Problem Statement, issues will be created based on this.
-### [Question](Question.md)
+### [Question](QUESTION.md)
  Here is the final version of our Problem Statement, which we are expecting to achive after completing the entire project.
 
 
