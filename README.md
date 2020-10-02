@@ -9,6 +9,12 @@ A tracking survey is a survey that asks the same questions across an interval of
 
 Each time you send your survey, whether it’s annually, quarterly, or more frequently is called a “wave.” Comparing survey results across waves will show trends and changing attitudes that can either prove your decisions are solid or indicate it’s time to change course.
 
+## Prerequisites
+
+Node.js should be installed in the system.
+
+If you have Node.js in your system use this [link](h)ttps://nodejs.org/en/download/)
+
 ## Technology Stack Used
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
@@ -50,10 +56,13 @@ Don’t forget to fill the [participation form](https://tinyurl.com/codewithgsbl
 For all the young duckings, we have posted some useful resources to go through and understand GitHub and React.
 
 - [Bulma Documentation](https://bulma.io/)
+- [Figma for Developers](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby)
 - [Git Documentation](https://git-scm.com/docs)
 - [GitHub Guides](https://guides.github.com/)
+- [How to think in react](https://www.youtube.com/watch?v=YJPSR9dEQV8&t=17s)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React Routing Video](https://www.youtube.com/watch?v=Law7wfdg_ls&t=1778s)
+- [Top 5 Skills you must read before working with react](https://www.geeksforgeeks.org/top-5-skills-you-must-know-before-you-learn-reactjs/)
 
 <br />
 
