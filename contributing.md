@@ -2,7 +2,7 @@
 
 ## Follow the steps below to get started right away!
 
-- **Fork this repo**: You'll see a Fork button on the top right against the name of this repository. This creates an identical copy of this repository and adds it to your repositories.
+- **Fork this repo**: You'll see a Fork button on the top right against the name of this repository. This creates a copy of this repository in your repositories collection.
 
 ![Fork Example](assets/images/fork.png)
 
@@ -10,7 +10,7 @@
 
   `github.com/<your_github_username>/code-with-gsblr-covid-a-thon`
 
-- **Clone the repository**: Clone the repository by copying the clone link (find it against the name of the repository on the right) and using it as mentioned in below CLI command
+- **Clone the repository**: Clone the repository in your local machine by using the below CLI command
 
   `git clone https://github.com/<your-username>/code-with-gsblr-covid-a-thon`
   
