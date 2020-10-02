@@ -40,11 +40,10 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 ## General Guidelines
  - Before working on any issue kidly read [contributing](CONTRIBUTING.md) file and readme file nicely.
  - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
- - While making any componet, make sure that code for the all generalised/common components must be kept in src->components->common folder.
- - While making specific components keep the source code in the src->componenrts folder.
+ - While making any componet, make sure that code for the all generalised/common components must be kept in ```src->components->common```folder.
+ - While making specific components keep the source code in the ```src->components``` folder.
  
-
-
+ 
 ## Note
 
 Since you are here, you should most definitely consider joining us on this ride. If you still have any doubts, listen to Richard Stallman's perspective on [Free software, free society](https://www.tedxgeneva.net/talks/richard-stallman-free-software-free-society/)
