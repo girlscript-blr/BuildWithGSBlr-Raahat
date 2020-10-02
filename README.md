@@ -7,7 +7,7 @@ Change is the law of nature and the law goes for everything, from our opinions t
 
 One such use case is of **Survey Tracker** application to maintain the insights from previous feedbacks and surveys which may go stale after some period of time. Tracking the surveys is considered an important aspect especially in works related to social welfare organisations because the records keep on changing based on individual needs and other factors. One way to keep your survey results fresh and actionable is by running your survey again and creating a multi wave tracking study, also known as tracker or tracking survey. 
 
-A tracking survey is a survey that asks the same questions across an interval of time, which allows you to “track” the changes from one deployment to the next and find trends over a certain period. Each time you send out your survey, whether it’s annually, quarterly, or more frequently is called a “wave.” Comparing survey results across waves will show trends and changing attitudes that can prove helpful in taking further decisions for the governing bodies.
+A tracking survey is a survey that asks the same questions across an interval of time, which allows you to “track” the changes from one deployment to the next and find trends over a certain period. Each time you roll out your survey, whether it’s annually, quarterly, or more frequently is called a “wave.” Comparing survey results across waves will show trends and changing attitudes that can prove helpful in taking further decisions for the governing bodies.
 
 **Here is the [wireframe](https://www.figma.com/file/TkpKfOPVtQ2XjADFp9Hhbz/Build-with-GS-BLR---Raahat?node-id=0%3A1) of the application we are building!**
 
