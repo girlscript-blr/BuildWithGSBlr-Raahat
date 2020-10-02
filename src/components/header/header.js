@@ -4,7 +4,7 @@ import './header.css'
 const Header = () => {
     return (
         <div className="section has-text-centered is-size-1">
-            Raahat App
+            Raahat App 
         </div>
     )
 }
