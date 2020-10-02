@@ -13,9 +13,9 @@ Each time you send your survey, whether it’s annually, quarterly, or more freq
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/backend-javascript-blue.svg?logo=javascript&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/frontend-javascript-blue.svg?logo=javascript&style=flat-square) 
 ![Bulma](https://img.shields.io/badge/framework-bulma-purple.svg?logo=bulma&style=flat-square) 
-![React](https://img.shields.io/badge/framework-react-lightgray.svg?logo=react&style=flat-square) 
+![React](https://img.shields.io/badge/library-react-lightgray.svg?logo=react&style=flat-square) 
 
 - Front End - **HTML**, **CSS** , **JavaScript**
 - Framewrok - **Bulma**
