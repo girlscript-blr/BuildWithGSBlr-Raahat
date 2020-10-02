@@ -24,12 +24,11 @@ Each time you send your survey, whether it’s annually, quarterly, or more freq
 
 ## Problem Statements
 
-### [Question_v1](QUESTION_V1.md)
- Here in the first version of our Problem Statement, issues will be created based on this.
-### [Question](QUESTION.md)
- Here is the final version of our Problem Statement, which we are expecting to achive after completing the entire project.
-
-
+ ### [Question_v1](QUESTION_V1.md)
+  Here in the first version of our Problem Statement, issues will be created based on this.
+ ### [Question](QUESTION.md)
+  Here is the final version of our Problem Statement, which we are expecting to achive after completing the entire project.
+ 
 <br />
 
 ## General Guidelines
@@ -58,4 +57,4 @@ For all the young duckings, we have posted some useful resources to go through a
 
 <br />
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptbangalore&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/girlscriptbangalore)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptbangalore&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/girlscriptblr/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@girlscriptbangalore&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/girlscriptbangalore/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@GirlscriptBLR&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/GirlscriptBLR)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptblr&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/girlscriptbangalore)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptblr&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/girlscriptblr/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@girlscriptblr&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/girlscriptblr/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@GirlscriptBLR&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/GirlscriptBLR)
