@@ -38,7 +38,7 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 <br />
 
 ## General Guidelines
- - Before working on any issue kidly read [contributing](contributinh.MD) file and readme file nicely.
+ - Before working on any issue kidly read [contributing](CONTRIBUTING.md) file and readme file nicely.
  - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
  - While making any componet, make sure that code for the all generalised/common components must be kept in src->components->common folder.
  - While making specific components keep the source code in the src->componenrts folder.
