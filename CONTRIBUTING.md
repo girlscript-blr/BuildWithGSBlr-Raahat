@@ -8,23 +8,26 @@
 
 - **Open the forked repository**: Navigate to your profile find the repository
 
-  `github.com/<your_github_username>/code-with-gsblr-covid-a-thon`
+  `github.com/<your_github_username>/BuildWithGSBlr-Raahat`
 
 - **Clone the repository**: Clone the repository in your local machine by using the below CLI command
 
-  `git clone https://github.com/<your-username>/code-with-gsblr-covid-a-thon`
+  `git clone https://github.com/<your-username>/BuildWithGSBlr-Raahat`
   
 - **Move to the directory**: Move to the directory by using the below CLI command
  
-  `cd code-with-gsblr-covid-a-thon`
+  `cd BuildWithGSBlr-Raahat`
 
-- **Create a new branch**: Follow proper naming convention before creating your own branch. The example of the naming is as follows
+- **Create a new branch**: Always create a new branch from the already existing `dev` branch. Follow proper naming convention before creating your own branch. The example of the naming is as follows
 
-    - **Example**: If you want to create a pull request for making a navbar to project to our Survey Tracker Application, your branch name can be `dev-<yourname>-navbar`.
+    - **Example**: If you want to create a pull request for solving the issue #2, then your branch name should be `issue-2`.
     
-  Now, execute the following command to create your own branch
+  Now, execute the following command to create your own branch from the `dev` branch
   
-    `git checkout -b <your-branch-name>`
+    ```
+    git checkout dev
+    git checkout -b <your-branch-name>
+    ```
 
 - **Update the changes to repo**: Add your solution in the new branch. 
 
@@ -42,7 +45,7 @@
 
   `git push -u origin <you-branch>`.
 
-- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `solutions` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
+- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `dev` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
 
   For GitHub web, simply move over to the original repository and click on New Pull Request and compare forked repositories. Provide appropriate description and VOILA!
 
