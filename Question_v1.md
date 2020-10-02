@@ -1,4 +1,4 @@
-## Question Version 1
+## Problem Statement (Version 1)
 
 Mr. Banku Yadav has just started with his NGO. During this Covid-19 pandemic, he decided to do a fundraiser to help the people in need. He found a slum nearby named Nayandahalli where he saw people who were in need of food and ration kits.
 
