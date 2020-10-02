@@ -38,11 +38,11 @@ If you have Node.js in your system use this [link](https://nodejs.org/en/downloa
 <br />
 
 ## General Guidelines
- - In the monthly challenges, each level may have a separate deadline that will be mentioned along with each problem statement. Eligibility of rewards is subject to strict adherence to the mentioned deadlines.
- - Raise a pull request only when you are satisfied with the solution.
+ - Before working on any issue kidly read [contributing](contributinh.MD) file and readme file nicely.
  - For each issue, a detail explanation is mentioned is issue ticket itself, for more details refer to figma design.
- - Contributors who are able to complete all levels of a problem statement will have a chance to join the team of Reviewers.
- - It goes without saying that plagiarism is strictly discouraged. Kindly refrain from the urge to do it.
+ - While making any componet, make sure that code for the all generalised/common components must be kept in src->components->common folder.
+ - While making specific components keep the source code in the src->componenrts folder.
+ 
 
 
 ## Note
