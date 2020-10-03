@@ -75,3 +75,11 @@ For all the young ducklings, we have posted some useful resources to go through 
 <br />
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptblr&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/girlscriptbangalore)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@girlscriptblr&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/girlscriptblr/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@girlscriptblr&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/girlscriptblr/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@girlscriptblr&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/GirlscriptBLR)
+
+<br />
+```
+if(repo === 'Awesome'){
+  Star the file
+}
+
+```
