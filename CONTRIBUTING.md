@@ -7,7 +7,7 @@
 3. One of our team members will assign the issue to the participant who commented. 
    (Please note that assignment will be on a first come first serve basis. One issue can be reserved by one participant at a time.)
 4. Once the participant is assigned an issue, he/she will be given a deadline under which they need to create a PR which solves that issue.
-5. If they fail to do the same, then the issue will re-unassigned and we'll wait for someone else to take it up.
+5. If they fail to do the same, then the issue will be unassigned and we'll wait for someone else to take it up.
 
 ## Now, follow the steps below to get started on develpoing the solutions immediately!
 
@@ -87,7 +87,7 @@ The PR with correct and optimised solution, which satisfies the deadline criteri
 
 To know more about the program and it's guidelines do check [README.md](README.md) file.
 
-A gentle reminder if you still haven’t filled our [participation form](https://tinyurl.com/codewithgsblr) 📃, fill it now😀.
+A gentle reminder if you still haven’t filled our [participation form](https://tinyurl.com/buildwithgsblr) 📃, fill it now😀.
 
 Also,we love your input! We want to make contributing to this project as easy and transparent as possible. When contributing to this repository, please discuss the queries you have via issue or [email](mailto:girlscriptblr@gmail.com), with the maintainers of this repository to successfully complete the tasks.
 
