@@ -27,14 +27,14 @@
  
   `cd BuildWithGSBlr-Raahat`
 
-- **Create a new branch**: Always create a new branch from the already existing `dev` branch. Follow proper naming convention before creating your own branch. The example of the naming is as follows
+- **Create a new branch**: Always create a new branch from the already existing `develop` branch. Follow proper naming convention before creating your own branch. The example of the naming is as follows
 
     - **Example**: If you want to create a pull request for solving the issue #2, then your branch name should be `issue-2`.
     
-  Now, execute the following command to create your own branch from the `dev` branch
+  Now, execute the following command to create your own branch from the `develop` branch
   
     ```
-    git checkout dev
+    git checkout develop
     git checkout -b <your-branch-name>
     ```
 
@@ -54,7 +54,7 @@
 
   `git push -u origin <you-branch>`.
 
-- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `dev` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
+- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `develop` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
 
   For GitHub web, simply move over to the original repository and click on New Pull Request and compare forked repositories. Provide appropriate description and VOILA!
 
