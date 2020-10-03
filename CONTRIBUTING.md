@@ -34,7 +34,7 @@
   Now, execute the following command to create your own branch from the `dev` branch
   
     ```
-    git checkout dev
+    git checkout develop
     git checkout -b <your-branch-name>
     ```
 
