@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.hero {
+  position: absolute;
+  width: 100%;
+  height: 505px;
+  background: #f1ddc9;
+  margin: 110px 0px;
+}
+.title {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  color: #000000;
+}
+
+.box1 {
+  width: 200px;
+  height: 2px;
+  background: #000000;
+}
+
+.subtitle {
+  margin-top: 20px;
+  width: 549px;
+  color: #000000;
+
+}
+.col2 {
+  background: url(corona.png) no-repeat;
+  background-size: 82%;
+  height: 560px;
+  margin-left: 40px;
+}
+@media only screen and (max-width: 430px) {
+  .col2 {
+    height: 350px;
+    background-size: 100%;
+    margin: 0px;
+  }
+  .hero {
+    width: 100%;
+    height: 605px;
+    background: #f1ddc9;
+    margin: 110px 0px;
+    padding-top: 20px;
+    text-align: left;
+  }
+  .subtitle {
+    font-size: 17px;
+    width: auto;
+  }
+}
