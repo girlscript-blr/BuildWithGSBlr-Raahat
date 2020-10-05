@@ -1,27 +1,22 @@
-*{ margin: 0; padding:0px;}
+*{ margin: 0;
+    padding:0px;
+}
+
 .div{
 
-    position: absolute;
-    width: 1440px;
-    height: 540px;
-    left: 0px;
-    top: 299px;
 
     background: #F1DDC9;
 
 }
 .font-footer{
-    position: absolute;
-    width: 231px;
-    height: 49px;
-    left: 604px;
-    top: 400px;
 
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
     font-size: 36px;
     line-height: 40px;
+    text-align: center;
+
     /* or 111% */
 
     letter-spacing: 0.02em;
@@ -30,29 +25,38 @@
 
 }
 @media(max-width: 768px){
-    .bottom p,.has-text-right{
-        text-align: center !important;
-    }
+
 }
-.fa{
-    padding-right: 10px;
+
+.navbar-item li{
+    list-style: none;
+    margin: 100px;
+    align-content: center;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
     font-size: 24px;
-    cursor: pointer;
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+    line-height: 24px;
+    /* identical to box height, or 100% */
 
-    background: #D84727;
+
+    color: #000000;
+
 }
-.back{
-    position: absolute;
-    width: 241px;
-    height: 30px;
-    left: 692px;
-    top: 759px;
+.fa-twitter { color: #D84727; }
+.fa-linkedin { color: #D84727;}
+.fa-telegram { color: #D84727;}
+.fa-facebook { color: #D84727;}
+.fa-medium { color: #D84727;}
+.fa-instagram { color: #D84727;}
 
+
+.fa-heart{
+    color: #E10404;
+}
+
+.fonts{
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
@@ -63,25 +67,12 @@
     letter-spacing: 0.02em;
 
     color: #333333;
-
 }
-.front{
-    position: absolute;
-    width: 110px;
-    height: 30px;
-    left: 505px;
-    top: 759px;
+.line{
 
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    /* identical to box height */
+    width: 1236.01px;
+    height: 0px;
 
-    letter-spacing: 0.02em;
-
-    color: #333333;
-
-
+    top: 737px;
+    border: 1px solid #EF7326;
 }
