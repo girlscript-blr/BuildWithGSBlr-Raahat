@@ -1,4 +1,6 @@
-.footer{
+*{ margin: 0; padding:0px;}
+.div{
+
     position: absolute;
     width: 1440px;
     height: 540px;
@@ -6,4 +8,80 @@
     top: 299px;
 
     background: #F1DDC9;
+
+}
+.font-footer{
+    position: absolute;
+    width: 231px;
+    height: 49px;
+    left: 604px;
+    top: 400px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 40px;
+    /* or 111% */
+
+    letter-spacing: 0.02em;
+
+    color: #333333;
+
+}
+@media(max-width: 768px){
+    .bottom p,.has-text-right{
+        text-align: center !important;
+    }
+}
+.fa{
+    padding-right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #D84727;
+}
+.back{
+    position: absolute;
+    width: 241px;
+    height: 30px;
+    left: 692px;
+    top: 759px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    color: #333333;
+
+}
+.front{
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    left: 505px;
+    top: 759px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    color: #333333;
+
+
 }
