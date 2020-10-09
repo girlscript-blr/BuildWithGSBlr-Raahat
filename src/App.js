@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import './App.css';
 import Header from './components/header/header';
-import TakeSurvey from './components/home/TakeSurvey';
+import Home from './components/home/Home';
 
 
 function App() {
