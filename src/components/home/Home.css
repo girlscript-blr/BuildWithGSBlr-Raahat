@@ -14,18 +14,10 @@
   font-size: 60px;
   color: #000000;
 }
-
-.box1 {
-  width: 200px;
-  height: 2px;
-  background: #000000;
-}
-
 .subtitle {
   margin-top: 20px;
   width: 549px;
   color: #000000;
-
 }
 .col2 {
   background: url(corona.png) no-repeat;
