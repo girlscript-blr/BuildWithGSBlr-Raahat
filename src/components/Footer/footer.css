@@ -1,79 +1,100 @@
 .App {
-    font-family: sans-serif;
-    text-align: center;
-    background-color: #F1DDC9;
-  }
-  
-  /* SOCIAL STUFF */
-  .social-container {
-    background: #F1DDC9;
-    padding: 25px 50px;
-   
-  }
-  a.social {
-    margin: 60px;
-    transition: transform 250ms;
-    display: inline-block;
-  }
-  
-  a.social:hover {
-    transform: translateY(-2px);
-  }
-  
-  a.linkedin{
-    color: #D84727;
-  }
-  
-  a.facebook {
-    color: #D84727;
-  }
-  
-  a.twitter {
-    color: #D84727;
-  }
-  a.telegram {
-    color: #D84727;
-  }  
-  a.instagram {
-    color: #D84727;
-  }
-  a.medium {
-    color: #D84727;
-  }
-  h1 .font-footer{
-    font-family: Poppins;
-    font-style: normal;	    font-style: normal;
-    font-weight: 500;	    font-weight: 500;
-    font-size: 20px;	    font-size: 24px;
-    line-height: 30px;	    line-height: 24px;
-  }
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #F1DDC9;
+}
+
+/* SOCIAL STUFF */
+.social-container {
+  background: #F1DDC9;
+  padding: 25px 50px;
+ 
+}
+a.social {
+  margin: 60px;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+a.linkedin{
+  color: #D84727;
+}
+
+a.facebook {
+  color: #D84727;
+}
+
+a.twitter {
+  color: #D84727;
+}
+a.telegram {
+  color: #D84727;
+}  
+a.instagram {
+  color: #D84727;
+}
+a.medium {
+  color: #D84727;
+}
+h1 .font-footer{
+  font-family: Poppins;
+  font-style: normal;	    font-style: normal;
+  font-weight: 500;	    font-weight: 500;
+  font-size: 20px;	    font-size: 24px;
+  line-height: 30px;	    line-height: 24px;
+}
 .heart{
-    size: 2x;
-    margin: 10px;
+  size: 2x;
+  margin: 10px;
 }
 .footer-fon{
-    font-family: Poppins;	    
-    font-style: normal;	    
-    font-weight: 500;	  
-    font-size: 20px;	 
-    line-height: 24px;
-    letter-spacing: 0.02em;	
-    color: #333333;
+  font-family: Poppins;	    
+  font-style: normal;	    
+  font-weight: 500;	  
+  font-size: 20px;	 
+  line-height: 24px;
+  letter-spacing: 0.02em;	
+  color: #333333;
 }
 .navbar-item{
-    
+  
+  text-align: center;
+  margin: 120px;
+  font-family: Poppins;	    
+  font-style: normal;	    
+  font-weight: 500;	  
+  font-size: 20px;	 
+  line-height: 24px;
+  letter-spacing: 0.02em;	
+  color: #333333;
+  font-style: italic;
+  
+}
+.HorizontalLine{
+
+  border: 1px solid #EF7326;
+}
+
+@media (min-width : 600 px){
+
+  body{
+    width: 75%;
+  }
+  .navbar-item{
+  
     text-align: center;
-    margin: 120px;
     font-family: Poppins;	    
     font-style: normal;	    
     font-weight: 500;	  
     font-size: 20px;	 
     line-height: 24px;
-    letter-spacing: 0.02em;	
+    letter-spacing: 0.02em;	 
     color: #333333;
+    font-style: italic;
     
-}
-.HorizontalLine{
-  
-    border: 1px solid #EF7326;
+  }
 }

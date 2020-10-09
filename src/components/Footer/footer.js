@@ -60,18 +60,18 @@ function footer() {
     <div class="content">
       <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a className="navbar-item">
+        <a href=" " className="navbar-item">
           Home
         </a>
 
-        <a href="" className="navbar-item">
+        <a href="dfh" className="navbar-item">
          About Us
         </a>
-        <a className="navbar-item">
+        <a href=" " className="navbar-item">
           Contact Us
         </a>
 
-        <a href="" className="navbar-item">
+        <a href=" " className="navbar-item">
           Blog
         </a>
         </div>
