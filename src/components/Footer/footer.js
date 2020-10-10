@@ -10,7 +10,8 @@ import {
     faMedium,
     
   } from "@fortawesome/free-brands-svg-icons";
-  import { FaHeart  } from 'react-icons/fa';
+  // import { FaHeart  } from 'react-icons/fa';
+  import { faHeart  } from '@fortawesome/free-solid-svg-icons';
 
 
 
@@ -81,7 +82,7 @@ function footer() {
     
     <div class="content has-text-centered">	
           <p class="footer-fon">  Made with  By 
-         <i class="heart"> <FaHeart color="#E10404" /></i> 
+         <i class="heart">  <FontAwesomeIcon icon={faHeart} size="2x" color="red"  /></i> 
           Girlscript Banglore
           </p>
 
