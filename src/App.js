@@ -11,7 +11,6 @@ function App() {
       <Route path="/" exact component={Header}/>
       </Switch>
       </Router>
- 
     </div>
   );
 }
