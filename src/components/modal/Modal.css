@@ -1,0 +1,64 @@
+.modal-header{
+
+  text-align: right;
+}
+
+.modal-size{
+  max-width: 30px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.button {
+  background-color: #4CAF50; /* Green */
+ 
+  color: white;
+  padding: 15px 32px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#elementID:hover{
+    color: black;
+}
+
+#elementID {
+  color: white;
+  border-color: white;
+  border:white;
+  font-size: 1em;
+  background-color:#fc6262;
+  border-radius: 500px;
+  text-shadow: white;
+}
+
+.Width{
+  display: block;
+  width: 1200px;
+  padding-left: 0px;
+}
