@@ -2,7 +2,6 @@ import React from "react";
 import "./button.css";
 
 const Button = (props) => {
-  console.log(props);
   let sec;
   if (props.variant === "secondary") sec = true;
   else sec = false;
