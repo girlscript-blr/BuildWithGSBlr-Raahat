@@ -15,7 +15,7 @@ import {
 
 
 
-function footer() {
+function Footer() {
   return (
   
 <footer class="footer">
@@ -81,9 +81,9 @@ function footer() {
     </div>
     
     <div class="content has-text-centered">	
-          <p class="footer-fon">  Made with  By 
+          <p class="footer-fon">  Made with  
          <i class="heart">  <FontAwesomeIcon icon={faHeart} size="2x" color="red"  /></i> 
-          Girlscript Banglore
+         By Girlscript Banglore
           </p>
 
     </div>
@@ -93,4 +93,4 @@ function footer() {
   );
 }
 
-export default footer;
+export default Footer;

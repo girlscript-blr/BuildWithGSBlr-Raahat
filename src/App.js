@@ -1,16 +1,22 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import './App.css';
-import footer from './components/Footer/footer';
+import Footer from './components/common/Footer/footer';
 
 function App() {
   return (
     <div>
       <Router>
       <Switch>
-      <Route path="/" exact component={footer}/>
+
       </Switch>
+      <Route path="/Footer" exact component={Footer}/>
       </Router>
+      {/* <div class="app-footer">
+     <div class="app-footer-menu">
+       <Footer/>
+     </div>
+   </div> */}
  
     </div>
   );
