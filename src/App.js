@@ -5,11 +5,12 @@ import footer from './components/Footer/footer';
 
 function App() {
   return (
-    <div>
+   <div>
       <Router>
       <Switch>
-      <Route path="/" exact component={footer}/>
+
       </Switch>
+      <Route path="/Footer" exact component={Footer}/>
       </Router>
  
     </div>
