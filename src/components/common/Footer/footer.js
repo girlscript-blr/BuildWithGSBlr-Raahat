@@ -8,7 +8,7 @@ import {
     faInstagram,
     faTelegram,
     faMedium,
-    
+  
   } from "@fortawesome/free-brands-svg-icons";
   // import { FaHeart  } from 'react-icons/fa';
   import { faHeart  } from '@fortawesome/free-solid-svg-icons';
