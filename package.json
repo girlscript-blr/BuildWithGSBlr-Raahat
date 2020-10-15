@@ -11,8 +11,12 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
+<<<<<<< HEAD
     "reactstrap": "^8.6.0",
     "styled-components": "^5.2.0"
+=======
+    "reactstrap": "^8.6.0"
+>>>>>>> Added Take Survey
   },
   "scripts": {
     "start": "react-scripts start",
