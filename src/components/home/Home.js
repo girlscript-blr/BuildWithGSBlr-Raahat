@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import TakeSurvey from './TakeSurvey.js';
 
 function Home() {
   return (
@@ -31,7 +32,11 @@ function Home() {
           </div>
         </div>
       </section>
+      <div className="takesurveyraahat">  
+          <TakeSurvey/>
+      </div>
     </div>
+    
   );
 }
 
