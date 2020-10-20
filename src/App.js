@@ -10,6 +10,7 @@ function App() {
       <Switch>
 
       </Switch>
+
       <Route path="/Footer" exact component={Footer}/>
       </Router>
       {/* <div class="app-footer">
