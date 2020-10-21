@@ -14,7 +14,7 @@ import {
 
 
 
-function footer() {
+function Footer() {
   return (
   
 <footer class="footer">
@@ -92,4 +92,4 @@ function footer() {
   );
 }
 
-export default footer;
+export default Footer;
