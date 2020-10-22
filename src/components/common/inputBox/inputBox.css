@@ -1,0 +1,41 @@
+.InputBox {
+    font-family: "Poppins", sans-serif;
+}
+
+.input-label {
+    display: block;
+    color: #D84727;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    padding-left: 8px;
+}
+
+.input-field {
+    display: block;
+    width: 100%;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: -0.015em;
+    background: #F1DDC9;
+    border: 1px solid #F1DDC9;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px 14px;
+    filter: drop-shadow(1px 5px 10px rgba(0, 0, 0, 0.25));
+}
+
+.error-label {
+    display: block;
+    text-align: right;
+    color: #D84727;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    padding-right: 2px;
+}
