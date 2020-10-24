@@ -11,9 +11,9 @@
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 600;
-  font-size: 50px;
   color: #000000;
   text-align: left;
+  font-size: 60px;
 }
 
 .box1 {
@@ -42,11 +42,25 @@
     margin-left: 20px;
     margin-top: 0px;
   }
+  .col2 {
+    background: url(corona.png) no-repeat;
+    background-size: 82%;
+    height: 560px;
+    margin-left: 40px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .col2 {
+    height: 350px;
+    background-size: 100%;
+    margin: 0px;
+  }
   .hero {
     width: 100%;
     height: 605px;
     background: #f1ddc9;
     margin-bottom: 200px;
+    margin: 110px 0px;
     padding-top: 20px;
     text-align: left;
   }
