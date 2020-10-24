@@ -1,18 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
 
 .hero {
-  position: absolute;
+  position: relative;
   width: 100%;
-  height: 505px;
+  height: 450px;
   background: #f1ddc9;
-  margin: 110px 0px;
+  margin-bottom: 500px;
 }
 .title {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 600;
-  font-size: 60px;
   color: #000000;
+  text-align: left;
+  font-size: 60px;
 }
 
 .box1 {
@@ -25,13 +26,28 @@
   margin-top: 20px;
   width: 549px;
   color: #000000;
-
+  text-align: left;
 }
 .col2 {
   background: url(corona.png) no-repeat;
-  background-size: 82%;
-  height: 560px;
-  margin-left: 40px;
+  background-size: 91%;
+  height: 540px;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+@media only screen and (max-width: 430px) {
+  .col2 {
+    height: 400px;
+    background-size: 91%;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  .col2 {
+    background: url(corona.png) no-repeat;
+    background-size: 82%;
+    height: 560px;
+    margin-left: 40px;
+  }
 }
 @media only screen and (max-width: 430px) {
   .col2 {
@@ -43,6 +59,7 @@
     width: 100%;
     height: 605px;
     background: #f1ddc9;
+    margin-bottom: 200px;
     margin: 110px 0px;
     padding-top: 20px;
     text-align: left;
@@ -50,5 +67,6 @@
   .subtitle {
     font-size: 17px;
     width: auto;
+    text-align: left;
   }
 }

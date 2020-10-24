@@ -1,0 +1,34 @@
+.button {
+  background-color: #d84727;
+  color: #ffffff;
+  border-radius: 35px;
+  box-shadow: 2px 3px 5px #888888;
+}
+
+.larger {
+  width: 200px;
+  height: 50px;
+  font-size: larger;
+}
+
+.smaller {
+  width: 200px;
+  height: 40px;
+  font-size: medium;
+}
+
+.primary {
+  background-color: #d84727;
+  color: white;
+}
+
+.secondary {
+  background-color: white;
+  border-color: #d84727;
+  color: #d84727;
+}
+
+.secondary:hover {
+  background-color: #d84727;
+  color: white;
+}
