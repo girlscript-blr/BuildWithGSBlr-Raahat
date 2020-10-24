@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.takesurvey {
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  background: #f1ddc9;
+  padding: 50px 0px 50px;
+}
+.title {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  color: #000000;
+}
+
+.subtitle {
+  margin-top: 20px;
+  width: 549px;
+  color: #000000;
+}
+.col2 {
+  background: url(maskimage1.jpg) no-repeat;
+  height: 350px;
+  background-size: 100%;
+  margin: 0px;
+  margin-top: 50px;
+}
+.col3 {
+  background: url(maskimage2.jpg) no-repeat;
+  margin-left: 40px;
+  background-size: 375px 250px;
+  margin: 50px 0 0 40px;
+}
+@media only screen and (max-width: 430px) {
+  .col2 {
+    height: 350px;
+    background-size: 100%;
+    margin: 0px;
+  }
+  .col3 {
+    height: 350px;
+    background-size: 100% 200px;
+    margin: 0px;
+  }
+  .takesurvey {
+    width: 100%;
+    height: 950px;
+    background: #f1ddc9;
+    margin: 110px 0px;
+    padding-top: 20px;
+    text-align: left;
+  }
+  .subtitle {
+    font-size: 17px;
+    width: auto;
+  }
+}
+.takesurveybutton {
+  background: #d84727 !important;
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 35px !important;
+  width: 218px !important;
+  height: 55px !important;
+  left: 102px !important;
+  top: 610px !important;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
