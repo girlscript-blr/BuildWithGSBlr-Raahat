@@ -1,6 +1,7 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import Home from './components/home/Home';
+import Navbar from './components/common/navbar/navbar'
 import './App.css';
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
       <Route path="/" exact component={Home}/>
       </Switch>
       </Router>
- 
+
     </div>
   );
 }
