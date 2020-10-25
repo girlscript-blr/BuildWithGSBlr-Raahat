@@ -1,17 +1,17 @@
 /* Navigation Bar */
 .nav-container{
     padding: 1% 0%;
-font-size: 1.25rem;
+font-size: 1.55rem;
 }
 .navigation-bar{
     margin: 0% 10%;
 }
 .navbar-item img{
-    max-height: none;
+max-height: none;
 }
 .logo-img{
-    height: 65px;
-    margin-right: 5%;
+    height: 20px;
+    margin-right: 1%;
 }
 .nav-title{
     font-size:1.85rem;
