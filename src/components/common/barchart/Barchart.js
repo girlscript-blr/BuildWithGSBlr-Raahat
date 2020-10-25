@@ -8,6 +8,7 @@ import { HorizontalBar } from 'react-chartjs-2';
 function Barchart(props) {
 
     const chartData = {
+        // 
         labels : props.labels,
         datasets : [
             {   
@@ -19,27 +20,50 @@ function Barchart(props) {
     }
 
     return (
-        <div className="bar">
-            <HorizontalBar
-                data={chartData}
-                options={{
-                    title: {
-                        display: true,
-                        text: props.title,
-                        fontSize: 18,
-                        fontColor: 'black',
-                        fontStyle: 'bold',
-                        fontFamily: 'Arial'
-                    },
-                    legend: {
-                        display: true,
-                        position: 'bottom',
-                        labels : {
-                            fontColor: 'black'
+        <div className="container">
+            <div className="bar" style={{backgroundColor: props.backgroundColour}}>
+                <HorizontalBar
+                    data={chartData}
+                    options={{
+                        title: {
+                            display: true,
+                            text: props.title,
+                            fontSize: 18,
+                            fontColor: 'black',
+                            fontStyle: 'bold',
+                            fontFamily: 'Arial'
+                        },
+                        legend: {
+                            display: true,
+                            position: 'bottom',
+                            align: 'center',
+                            labels : {
+                                fontColor: 'black'
+                            }
+                        },
+                        scales: {
+                            yAxes: [{
+                                gridLines: {
+                                    display: false
+                                },
+                                ticks: {
+                                    fontColor: "black",
+                                    fontSize: 14,
+                                }
+                            }],
+                            xAxes: [{
+                                gridLines: {
+                                    display: true
+                                },
+                                ticks: {
+                                    fontColor: "black",
+                                    fontSize: 14,
+                                }
+                            }]
                         }
-                    }
-                }}
-            />
+                    }}
+                />
+            </div>
         </div>
     )
 }
