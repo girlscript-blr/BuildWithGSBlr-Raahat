@@ -1,12 +1,13 @@
-import React from 'react'
-import './navbar.css'
+import React from 'react';
+import Sample from './SampleNav.png';
+import './navbar.css';
 
 const Navbar = () => {
     return (
-        <div>
-            It is a navbar component.
-        </div>
-    )
-}
+      <div>
+            
+          </div>
+      )
+  }
 
-export default Navbar
+export default Navbar;

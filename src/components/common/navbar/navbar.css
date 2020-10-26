@@ -1,0 +1,36 @@
+/* Navigation Bar */
+.nav-container{
+    padding: 1% 0%;
+font-size: 1.55rem;
+}
+.navigation-bar{
+    margin: 0% 10%;
+}
+.navbar-item img{
+max-height: none;
+}
+.logo-img{
+    height: 20px;
+    margin-right: 1%;
+}
+.nav-title{
+    font-size:1.85rem;
+    font-weight: bold;
+    color: #120101;;
+}
+a.item-nav{
+    color: #120101;
+}
+a.item-nav:hover{
+    background-color:inherit;
+    color: #FF4500;
+    font-weight: 600;
+}
+.navbar-burger{
+    height: inherit;
+}
+.navbar-burger:hover{
+    background-color: inherit;
+}
+
+/* Navigation Bar End*/
