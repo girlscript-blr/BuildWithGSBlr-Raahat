@@ -20,70 +20,40 @@ function Footer() {
 <footer class="footer">
       <div class="container">
         <div class="content has-text-centered">
-            <h1 class="font-footer">Follow Us AT</h1><br></br>
+           <br></br> <h1 class="font-footer">Follow Us AT</h1>
         <a href="https://twitter.com/" className="twitter social">
-        <FontAwesomeIcon icon={faTwitter} size="5x"  />
+        <FontAwesomeIcon icon={faTwitter} size="4x"  />
       </a>
-      <a
-        href="https://www.facebook.com/"
-        className="facebook social"
-      >
-        <FontAwesomeIcon icon={faFacebook} size="5x"  />
+      <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" className="facebook social">
+        <FontAwesomeIcon icon={faFacebook} size="4x"  />
       </a>
-      <a
-        href="https://www.linkedin.com/"
-        className="linkedin social"
-      >
-        <FontAwesomeIcon icon={faLinkedin} size="5x"  />
+      <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/" className="linkedin social" >
+        <FontAwesomeIcon icon={faLinkedin} size="4x"  />
       </a>
-      <a
-        href="https://www.telegram.com/"
-        className="telegram social"
-      >
-        <FontAwesomeIcon icon={faTelegram} size="5x"  />
+      <a target="_blank" rel="noopener noreferrer" href="https://www.telegram.com/" className="telegram social" >
+        <FontAwesomeIcon icon={faTelegram} size="4x"  />
       </a>
       
-      <a
-        href="https://www.instagram.com/"
-        className="instagram social"
-      >
-        <FontAwesomeIcon icon={faInstagram} size="5x"  />
+      <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/" className="instagram social">
+        <FontAwesomeIcon icon={faInstagram} size="4x"  />
       </a>
-      <a
-        href="https://www.medium.com/"
-        className="medium social"
-      >
-        <FontAwesomeIcon icon={faMedium} size="5x"  />
+      <a target="_blank" rel="noopener noreferrer" href="https://www.medium.com/" className="medium social" >
+        <FontAwesomeIcon icon={faMedium} size="4x"  />
       </a>
     
     </div>
-    <div class="content">
-      <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-start">
-        <a className="navbar-item">
-          Home
-        </a>
-
-        <a href="" className="navbar-item">
-         About Us
-        </a>
-        <a className="navbar-item">
-          Contact Us
-        </a>
-
-        <a href="" className="navbar-item">
-          Blog
-        </a>
-        </div>
+      <div id="navbarBasicExample" class="navbar-menu" >
+      <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item"> Home </a>
+      <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item"> About Us</a>
+      <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">Contact Us</a>
+      <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">Blog</a>
       </div>
       <div className="HorizontalLine"></div>
-    </div>
+      
+    
     
     <div class="content has-text-centered">	
-          <p class="footer-fon">  Made with  By 
-         <i class="heart"> <FaHeart color="#E10404" /></i> 
-          Girlscript Banglore
-          </p>
+          <p class="footer-fon">  Made with <i class="heart"> <FaHeart color="#E10404" /></i>By Girlscript Banglore </p>
 
     </div>
         </div>
