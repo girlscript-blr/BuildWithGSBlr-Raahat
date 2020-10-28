@@ -1,14 +1,5 @@
-.App {
-    font-family: sans-serif;
-    text-align: center;
-    background-color: #F1DDC9;
-  }
-  
-  /* SOCIAL STUFF */
-  .social-container {
-    background: #F1DDC9;
-    padding: 25px 50px;
-   
+ .social-container {
+    background: #F1DDC9;   
   }
   a.social {
     margin: 60px;

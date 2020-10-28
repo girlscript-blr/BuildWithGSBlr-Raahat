@@ -60,18 +60,18 @@ function Footer() {
     <div class="content">
       <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a className="navbar-item">
+        <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">
           Home
         </a>
 
-        <a href="" className="navbar-item">
+        <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">
          About Us
         </a>
-        <a className="navbar-item">
+        <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">
           Contact Us
         </a>
 
-        <a href="" className="navbar-item">
+        <a href=" " target="_blank" rel="noopener noreferrer" className="navbar-item">
           Blog
         </a>
         </div>
@@ -80,9 +80,9 @@ function Footer() {
     </div>
     
     <div class="content has-text-centered">	
-          <p class="footer-fon">  Made with  By 
+          <p class="footer-fon">  Made with 
          <i class="heart"> <FaHeart color="#E10404" /></i> 
-          Girlscript Banglore
+         By Girlscript Banglore
           </p>
 
     </div>
