@@ -4,10 +4,10 @@ import './navbar.css';
 
 const Navbar = () => {
     return (
-        <div>
-            <img src={Sample} alt="Sample Nav"/>
-        </div>
-    )
-}
+      <div>
+            
+          </div>
+      )
+  }
 
 export default Navbar;

@@ -7,7 +7,7 @@
 3. One of our team members will assign the issue to the participant who commented. 
    (Please note that assignment will be on a first come first serve basis. One issue can be reserved by one participant at a time.)
 4. Once the participant is assigned an issue, he/she will be given a deadline under which they need to create a PR which solves that issue.
-5. If they fail to do the same, then the issue will re-unassigned and we'll wait for someone else to take it up.
+5. If they fail to do the same, then the issue will be unassigned and we'll wait for someone else to take it up.
 
 ## Now, follow the steps below to get started on develpoing the solutions immediately!
 
@@ -27,11 +27,11 @@
  
   `cd BuildWithGSBlr-Raahat`
 
-- **Create a new branch**: Always create a new branch from the already existing `dev` branch. Follow proper naming convention before creating your own branch. The example of the naming is as follows
+- **Create a new branch**: Always create a new branch from the already existing `develop` branch. Follow proper naming convention before creating your own branch. The example of the naming is as follows
 
     - **Example**: If you want to create a pull request for solving the issue #2, then your branch name should be `issue-2`.
     
-  Now, execute the following command to create your own branch from the `dev` branch
+  Now, execute the following command to create your own branch from the `develop` branch
   
     ```
     git checkout develop
@@ -54,7 +54,7 @@
 
   `git push -u origin <you-branch>`.
 
-- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `dev` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
+- **Create pull request**: Please create a Pull Request(PR) from GitHub to the `develop` branch. If you are new to creating pull requests, watch the video for reference. [Your First GitHub Pull Request (in 10 Mins)](https://www.youtube.com/watch?v=dSl_qnWO104)
 
   For GitHub web, simply move over to the original repository and click on New Pull Request and compare forked repositories. Provide appropriate description and VOILA!
 
@@ -87,7 +87,7 @@ The PR with correct and optimised solution, which satisfies the deadline criteri
 
 To know more about the program and it's guidelines do check [README.md](README.md) file.
 
-A gentle reminder if you still haven’t filled our [participation form](https://tinyurl.com/codewithgsblr) 📃, fill it now😀.
+A gentle reminder if you still haven’t filled our [participation form](https://tinyurl.com/buildwithgsblr) 📃, fill it now😀.
 
 Also,we love your input! We want to make contributing to this project as easy and transparent as possible. When contributing to this repository, please discuss the queries you have via issue or [email](mailto:girlscriptblr@gmail.com), with the maintainers of this repository to successfully complete the tasks.
 
