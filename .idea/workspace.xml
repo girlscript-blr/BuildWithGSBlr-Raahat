@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d449238c-72a8-434e-9c35-f94d51f73c9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/db/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/TakeSurvey.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/TakeSurvey.js" afterDir="false" />
-    </list>
+    <list default="true" id="d449238c-72a8-434e-9c35-f94d51f73c9a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +68,7 @@
       <updated>1603371502316</updated>
       <workItem from="1603371503363" duration="1851000" />
       <workItem from="1603742404479" duration="158000" />
-      <workItem from="1604584064755" duration="3017000" />
+      <workItem from="1604584064755" duration="3320000" />
     </task>
     <servers />
   </component>
